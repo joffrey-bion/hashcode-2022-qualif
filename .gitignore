@@ -1,0 +1,8 @@
+.idea
+
+# Gradle stuff
+/.gradle
+/build
+
+# Output stuff
+/outputs
